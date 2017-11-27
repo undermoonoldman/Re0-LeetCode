@@ -6,4 +6,6 @@
 参考谨慎
 
 错误百出
-![图文无关]https://raw.githubusercontent.com/NoMoreThanAWord/Re0-LeetCode/master/img/img1.jpg
+
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/img1.jpg)
+
