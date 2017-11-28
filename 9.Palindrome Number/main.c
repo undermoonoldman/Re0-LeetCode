@@ -7,7 +7,8 @@ If you are thinking of converting the integer to string, note the restriction of
 
 You could also try reversing an integer. However, if you have solved the problem "Reverse Integer", you know that the reversed integer might overflow. How would you handle such case?
 
-There is a more generic way of solving this problem.*/
+There is a more generic way of solving this problem.
+*/
 #include <stdio.h>
 #include <stdbool.h>
 /*比较通用的解法是每次分别从数的头跟尾把所在位的数字取出来进行比对，如果相等，则去掉头尾位再新数上再执行如上操作*/
