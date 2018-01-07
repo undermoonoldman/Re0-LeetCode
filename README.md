@@ -7,11 +7,11 @@
 
 错误百出
 
-![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/5.png)
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/4.png)
 
 welcome to point out my faults;
 
-![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/4.png)
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/5.png)
 
 欢迎一起来互啄;
 
