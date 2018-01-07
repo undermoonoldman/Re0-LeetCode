@@ -7,7 +7,7 @@
 
 错误百出
 
-![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/0.jpg)
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/5.png)
 
 welcome to point out my faults;
 
