@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arthurmeng/Documents/GitHub/Re0-LeetCode-with-pureC/29.Divide Two Integers/main.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+

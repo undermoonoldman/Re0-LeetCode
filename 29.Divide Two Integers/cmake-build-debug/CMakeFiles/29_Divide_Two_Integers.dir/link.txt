@@ -1,3 +1,0 @@
-"D:\softWare\clion\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\29_Divide_Two_Integers.dir/objects.a
-D:\softWare\MinGw\mingw64\bin\ar.exe cr CMakeFiles\29_Divide_Two_Integers.dir/objects.a @CMakeFiles\29_Divide_Two_Integers.dir\objects1.rsp
-D:\softWare\MinGw\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\29_Divide_Two_Integers.dir/objects.a -Wl,--no-whole-archive  -o 29_Divide_Two_Integers.exe -Wl,--out-implib,lib29_Divide_Two_Integers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\29_Divide_Two_Integers.dir\linklibs.rsp
