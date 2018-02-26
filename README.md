@@ -15,5 +15,3 @@ welcome to point out my faults;
 
 欢迎一起来互啄;
 
-![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/1.jpg)
-![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/4.png)
