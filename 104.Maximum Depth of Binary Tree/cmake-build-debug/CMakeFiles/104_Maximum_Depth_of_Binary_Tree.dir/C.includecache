@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arthurmeng/Documents/GitHub/Re0-LeetCode-with-pureC/104.Maximum Depth of Binary Tree/main.c
+stdlib.h
+-
+assert.h
+-
+stdio.h
+-
+
