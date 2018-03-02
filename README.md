@@ -9,9 +9,9 @@
 
 ![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/3.png)
 
-welcome to point out my faults;
+戊戌年甲寅月癸巳日 起提交主要语言改为c++
 
 ![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/5.png)
 
-欢迎一起来互啄;
+
 
