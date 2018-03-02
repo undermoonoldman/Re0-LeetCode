@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arthurmeng/Documents/GitHub/Re0-LeetCode-with-pureC/008.String to Integer (atoi)/main.c
+stdio.h
+-
+
