@@ -1,0 +1,4 @@
+ToolSet: w64 5.0@D:\softWare\MinGw\mingw64
+Options: 
+
+Options:

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/codes/GitHub/Re0-LeetCode-with-pureC/401.Binary Watch/main.cpp
+iostream
+-
+vector
+-
+map
+-
+
