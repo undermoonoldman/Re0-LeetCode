@@ -44,7 +44,7 @@ public:
             s.pop();
             ret.push_back(p->val);
             if(p->right != NULL)
-                s.push(p->right);//先压入右孩子，这样每次取出的都是左孩子(如果存在的话)
+                s.push(p->right);//先压入右孩子，这样每次取出的都是左孩子(如果存在的话)。
             if(p->left != NULL)
                 s.push(p->left);
         }
