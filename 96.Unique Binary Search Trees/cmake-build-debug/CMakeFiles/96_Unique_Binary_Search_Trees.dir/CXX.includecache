@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arthurmeng/Documents/GitHub/Re0-LeetCode-with-pureC/96.Unique Binary Search Trees/main.cpp
+iostream
+-
+vector
+-
+
