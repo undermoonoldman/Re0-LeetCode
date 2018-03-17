@@ -14,6 +14,7 @@ What if elements of nums2 are stored on disk, and the memory is limited such tha
 #include <iostream>
 #include <vector>
 #include <map>
+#include <unordered_map>
 using namespace std;
 
 class Solution
@@ -22,7 +23,8 @@ public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2)
     {
         vector<int> res;
-        map<int, int> map1;//统计nums1的频次
+        unordered_map<int, int> map1;//统计nums1的频次,使用unorder_map 底层为hashmap比map更快，查找为 O(1), map查找为 O(logN)
+
 
         for(int i : nums1)
             map1[i]++;
