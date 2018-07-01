@@ -65,7 +65,7 @@ bool isMatch(char c)
 bool isValid(char* s)
 {
     if(*s == '\0')
-        return false;
+        return true;
     char *p = s;
     Stack.top = -1;
     if(isRightParent(p))
