@@ -272,6 +272,8 @@
 
 ### 题目分类
 
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/c.jpeg)
+
 1. ### Array
 
    | 题号                                                         | 状态 |     说明      |
@@ -355,6 +357,8 @@
    | 300	Longest Increasing Subsequence                        | ToDo |               |
    | 354	Russian Doll Envelopes                                | ToDo |               |
 
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/d.jpeg)
+
 2. ### String
 
    | 题号                                                         | 状态 |      说明      |
@@ -425,6 +429,8 @@
    | 115	Distinct Subsequences                                 | ToDo |                |
    | 187	Repeated DNA Sequences                                | ToDo | rarely tested  |
 
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/e.jpeg)
+
 3. ### Math
 
    | 题号                                      | 状态 |     说明      |
@@ -471,6 +477,8 @@
    | 360	Sort Transformed Array             | ToDo |               |
    | 397	Integer Replacement                | ToDo |               |
    | 368	Largest Divisible Subset           | ToDo |               |
+
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/f.jpeg)
 
 4. ## Tree
 
@@ -529,4 +537,6 @@
    | 96	Unique Binary Search Trees                             | ToDo |      important       |
    | 95	Unique Binary Search Trees II                          | ToDo |    rarely tested     |
    | 331	Verify Preorder Serialization of a Binary Tree        | ToDo |    rarely tested     |
+
+![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/g.jpeg)
 
