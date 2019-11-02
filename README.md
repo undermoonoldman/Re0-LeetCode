@@ -266,7 +266,7 @@
 
 ---
 
-![正事配图](https://github.com/NoMoreThanAWord/Re0-LeetCode/raw/master/img/b.jpg)
+---
 
 ## **LeetCode Topics**
 
