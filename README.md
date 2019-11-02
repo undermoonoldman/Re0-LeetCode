@@ -272,11 +272,11 @@
 
 ### 题目分类
 
-1. ### Array(基础)
+1. ### Array
 
    | 题号                                                         | 状态 |     说明      |
    | :----------------------------------------------------------- | :--- | :-----------: |
-   | Basic                                                        |      |               |
+   | ~~Basic~~                                                    |      |               |
    | 27	Remove Element                                         | ToDo |               |
    | 26	Remove Duplicates from Sorted Array                    | ToDo |               |
    | 80	Remove Duplicates from Sorted Array II                 | ToDo |               |
@@ -312,18 +312,18 @@
    | 287	Find the Duplicate Number                             | ToDo |               |
    | 135	Candy                                                 | ToDo | rarely tested |
    | 330	Patching Array                                        | ToDo | rarely tested |
-   | Following Up                                                 |      |               |
+   | ~~Following Up~~                                             |      |               |
    | 4	Median of Two Sorted Arrays                             | ToDo | rarely tested |
    | 321	Create Maximum Number                                 | ToDo | rarely tested |
    | 327	Count of Range Sum                                    | ToDo |               |
    | 289	Game of Life                                          | ToDo |               |
-   | Interval                                                     |      |               |
+   | ~~Interval~~                                                 |      |               |
    | 57	Insert Interval                                        | ToDo |               |
    | 56	Merge Intervals                                        | ToDo |               |
    | 252	Meeting Rooms                                         | ToDo |               |
    | 253	Meeting Rooms II                                      | ToDo |               |
    | 352	Data Stream as Disjoint Intervals                     | ToDo |    TreeMap    |
-   | Counter                                                      |      |               |
+   | ~~Counter~~                                                  |      |               |
    | 239	Sliding Window Maximum                                | ToDo |               |
    | 295	Find Median from Data Stream                          | ToDo |               |
    | 53	Maximum Subarray                                       | ToDo |               |
@@ -333,7 +333,7 @@
    | 152	Maximum Product Subarray                              | ToDo |               |
    | 228	Summary Ranges                                        | ToDo |               |
    | 163	Missing Ranges                                        | ToDo |               |
-   | Counter                                                      |      |               |
+   | ~~Counter~~                                                  |      |               |
    | 88	Merge Sorted Array                                     | ToDo |               |
    | 75	Sort Colors                                            | ToDo |               |
    | 283	Move Zeroes                                           | ToDo |               |
@@ -354,4 +354,179 @@
    | 315	Count of Smaller Numbers After Self                   | ToDo |               |
    | 300	Longest Increasing Subsequence                        | ToDo |               |
    | 354	Russian Doll Envelopes                                | ToDo |               |
+
+2. ### String
+
+   | 题号                                                         | 状态 |      说明      |
+   | :----------------------------------------------------------- | :--- | :------------: |
+   | ~~Basic~~                                                    |      |                |
+   | 28	Implement strStr()                                     | ToDo |                |
+   | 14	Longest Common Prefix                                  | ToDo |                |
+   | 58	Length of Last Word                                    | ToDo |                |
+   | 387	First Unique Character in a String                    | ToDo |                |
+   | 383	Ransom Note                                           | ToDo |                |
+   | 344	Reverse String                                        | ToDo |                |
+   | 151	Reverse Words in a String                             | ToDo |                |
+   | 186	Reverse Words in a String II                          | ToDo |                |
+   | 345	Reverse Vowels of a String                            | ToDo |                |
+   | 205	Isomorphic Strings                                    | ToDo |                |
+   | 293	Flip Game                                             | ToDo |                |
+   | 294	Flip Game II                                          | ToDo |                |
+   | 290	Word Pattern                                          | ToDo |                |
+   | 242	Valid Anagram                                         | ToDo |                |
+   | 49	Group Anagrams                                         | ToDo |                |
+   | 249	Group Shifted Strings                                 | ToDo |                |
+   | 87	Scramble String                                        | ToDo |                |
+   | 179	Largest Number                                        | ToDo | rarely tested  |
+   | 6	ZigZag Conversion                                       | ToDo | rarely tested  |
+   | 161	One Edit Distance                                     | ToDo |                |
+   | 38	Count and Say                                          | ToDo |                |
+   | 358	Rearrange String k Distance Apart                     | ToDo |                |
+   | 316	Remove Duplicate Letters                              | ToDo |                |
+   | 271	Encode and Decode Strings                             | ToDo |                |
+   | 168	Excel Sheet Column Title                              | ToDo |                |
+   | 171	Excel Sheet Column Number                             | ToDo |                |
+   | 13	Roman to Integer                                       | ToDo |                |
+   | 12	Integer to Roman                                       | ToDo |                |
+   | 273	Integer to English Words                              | ToDo |                |
+   | 246	Strobogrammatic Number                                | ToDo |                |
+   | 247	Strobogrammatic Number II                             | ToDo |                |
+   | 248	Strobogrammatic Number III                            | ToDo | rarely tested  |
+   | ~~Following Up~~                                             |      |                |
+   | 157	Read N Characters Given Read4                         | ToDo |                |
+   | 158	Read N Characters Given Read4 II - Call multiple times | ToDo |                |
+   | 68	Text Justification                                     | ToDo |                |
+   | 65	Valid Number                                           | ToDo |                |
+   | ~~Substring~~                                                |      |                |
+   | 76	Minimum Window Substring                               | ToDo | Sliding Window |
+   | 30	Substring with Concatenation of All Words              | ToDo |                |
+   | 3	Longest Substring Without Repeating Characters          | ToDo |                |
+   | 340	Longest Substring with At Most K Distinct Characters  | ToDo | Sliding Window |
+   | 395	Longest Substring with At Least K Repeating Characters | ToDo | Sliding Window |
+   | 159	Longest Substring with At Most Two Distinct Characters | ToDo | Sliding Window |
+   | ~~Palindrome~~                                               |      |                |
+   | 125	Valid Palindrome                                      | ToDo |                |
+   | 266	Palindrome Permutation                                | ToDo |                |
+   | 5	Longest Palindromic Substring                           | ToDo |                |
+   | 9	Palindrome Number                                       | ToDo |                |
+   | 214	Shortest Palindrome                                   | ToDo |                |
+   | 336	Palindrome Pairs                                      | ToDo |                |
+   | 131	Palindrome Partitioning                               | ToDo |                |
+   | 132	Palindrome Partitioning II                            | ToDo |                |
+   | 267	Palindrome Permutation II                             | ToDo |                |
+   | ~~Parentheses~~                                              |      |                |
+   | 20	Valid Parentheses                                      | ToDo |                |
+   | 22	Generate Parentheses                                   | ToDo |                |
+   | 32	Longest Valid Parentheses                              | ToDo |                |
+   | 241	Different Ways to Add Parentheses                     | ToDo |                |
+   | 301	Remove Invalid Parentheses                            | ToDo |                |
+   | ~~Subsequence~~                                              |      |                |
+   | 392	Is Subsequence                                        | ToDo |                |
+   | 115	Distinct Subsequences                                 | ToDo |                |
+   | 187	Repeated DNA Sequences                                | ToDo | rarely tested  |
+
+3. ### Math
+
+   | 题号                                      | 状态 |     说明      |
+   | :---------------------------------------- | :--- | :-----------: |
+   | 7	Reverse Integer                      | ToDo |               |
+   | 165	Compare Version Numbers            | ToDo |               |
+   | 66	Plus One                            | ToDo |               |
+   | 8	String to Integer (atoi)             | ToDo |               |
+   | 258	Add Digits                         | ToDo |               |
+   | 67	Add Binary                          | ToDo |               |
+   | 43	Multiply Strings                    | ToDo |               |
+   | 29	Divide Two Integers                 | ToDo |               |
+   | 69	Sqrt(x)                             | ToDo |               |
+   | 50	Pow(x, n)                           | ToDo |               |
+   | 367	Valid Perfect Square               | ToDo |               |
+   | 365	Water and Jug Problem              | ToDo |               |
+   | 204	Count Primes                       | ToDo |               |
+   | ~~Sum~~                                   |      |               |
+   | 1	Two Sum                              | ToDo |               |
+   | 167	Two Sum II - Input array is sorted | ToDo |               |
+   | 15	3Sum                                | ToDo |               |
+   | 16	3Sum Closest                        | ToDo | rarely tested |
+   | 259	3Sum Smaller                       | ToDo | rarely tested |
+   | 18	4Sum                                | ToDo |               |
+   | ~~Rarely Tested~~                         |      |               |
+   | 231	Power of Two                       | ToDo |               |
+   | 326	Power of Three                     | ToDo |               |
+   | 342	Power of Four                      | ToDo |               |
+   | 372	Super Pow                          | ToDo |               |
+   | 233	Number of Digit One                | ToDo |               |
+   | 319	Bulb Switcher                      | ToDo |               |
+   | 292	Nim Game                           | ToDo |               |
+   | 202	Happy Number                       | ToDo |               |
+   | 400	Nth Digit                          | ToDo |               |
+   | 263	Ugly Number                        | ToDo |               |
+   | 264	Ugly Number II                     | ToDo |               |
+   | 306	Additive Number                    | ToDo |               |
+   | 172	Factorial Trailing Zeroes          | ToDo |               |
+   | 343	Integer Break                      | ToDo |               |
+   | 396	Rotate Function                    | ToDo |               |
+   | 390	Elimination Game                   | ToDo |               |
+   | 386	Lexicographical Numbers            | ToDo |               |
+   | 357	Count Numbers with Unique Digits   | ToDo |               |
+   | 360	Sort Transformed Array             | ToDo |               |
+   | 397	Integer Replacement                | ToDo |               |
+   | 368	Largest Divisible Subset           | ToDo |               |
+
+4. ## Tree
+
+   | 题号                                                         | 状态 |         说明         |
+   | :----------------------------------------------------------- | :--- | :------------------: |
+   | ~~Basic~~                                                    |      |                      |
+   | 144	Binary Tree Preorder Traversal                        | ToDo |                      |
+   | 94	Binary Tree Inorder Traversal                          | ToDo |                      |
+   | 145	Binary Tree Postorder Traversal                       | ToDo |                      |
+   | 102	Binary Tree Level Order Traversal                     | ToDo |                      |
+   | ~~Preorder~~                                                 |      |                      |
+   | 100	Same Tree                                             | ToDo |                      |
+   | 101	Symmetric Tree                                        | ToDo |                      |
+   | 226	Invert Binary Tree                                    | ToDo |    preorder + BFS    |
+   | 257	Binary Tree Paths                                     | ToDo |                      |
+   | 112	Path Sum                                              | ToDo |                      |
+   | 113	Path Sum II                                           | ToDo |                      |
+   | 129	Sum Root to Leaf Numbers                              | ToDo |                      |
+   | 298	Binary Tree Longest Consecutive Sequence              | ToDo |                      |
+   | 111	Minimum Depth of Binary Tree                          | ToDo |                      |
+   | ~~Preorder~~                                                 |      |                      |
+   | 104	Maximum Depth of Binary Tree                          | ToDo |                      |
+   | 110	Balanced Binary Tree                                  | ToDo |                      |
+   | 124	Binary Tree Maximum Path Sum                          | ToDo |                      |
+   | 250	Count Univalue Subtrees                               | ToDo |                      |
+   | 366	Find Leaves of Binary Tree                            | ToDo |                      |
+   | 337	House Robber III                                      | ToDo | postorder + preorder |
+   | ~~BFS~~                                                      |      |                      |
+   | 107	Binary Tree Level Order Traversal II                  | ToDo |                      |
+   | 103	Binary Tree Zigzag Level Order Traversal              | ToDo |                      |
+   | 199	Binary Tree Right Side View                           | ToDo |    BFS + preorder    |
+   | ~~BST~~                                                      |      |                      |
+   | 98	Validate Binary Search Tree                            | ToDo |       preorder       |
+   | 235	Lowest Common Ancestor of a Binary Search Tree        | ToDo |       preorder       |
+   | 236	Lowest Common Ancestor of a Binary Tree               | ToDo |      postorder       |
+   | 108	Convert Sorted Array to Binary Search Tree            | ToDo |    binary search     |
+   | 109	Convert Sorted List to Binary Search Tree             | ToDo |    binary search     |
+   | 173	Binary Search Tree Iterator                           | ToDo |       inorder        |
+   | 230	Kth Smallest Element in a BST                         | ToDo |       inorder        |
+   | 297	Serialize and Deserialize Binary Tree                 | ToDo |         BFS          |
+   | 285	Inorder Successor in BST                              | ToDo |       inorder        |
+   | 270	Closest Binary Search Tree Value                      | ToDo |       preorder       |
+   | 272	Closest Binary Search Tree Value II                   | ToDo |       inorder        |
+   | 99	Recover Binary Search Tree                             | ToDo |       inorder        |
+   | ~~Importance~~                                               |      |                      |
+   | 156	Binary Tree Upside Down                               | ToDo |    rarely tested     |
+   | 114	Flatten Binary Tree to Linked List                    | ToDo |    rarely tested     |
+   | 255	Verify Preorder Sequence in Binary Search Tree        | ToDo |    rarely tested     |
+   | 333	Largest BST Subtree                                   | ToDo |    rarely tested     |
+   | 222	Count Complete Tree Nodes                             | ToDo |    rarely tested     |
+   | 105	Construct Binary Tree from Preorder and Inorder Traversal | ToDo |    rarely tested     |
+   | 106	Construct Binary Tree from Inorder and Postorder Traversal | ToDo |    rarely tested     |
+   | 116	Populating Next Right Pointers in Each Node           | ToDo |      important       |
+   | 117	Populating Next Right Pointers in Each Node II        | ToDo |      important       |
+   | 314	Binary Tree Vertical Order Traversal                  | ToDo |      important       |
+   | 96	Unique Binary Search Trees                             | ToDo |      important       |
+   | 95	Unique Binary Search Trees II                          | ToDo |    rarely tested     |
+   | 331	Verify Preorder Serialization of a Binary Tree        | ToDo |    rarely tested     |
 
