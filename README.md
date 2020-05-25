@@ -13,45 +13,45 @@
 
 | 题号                                                         | 状态 |
 | :----------------------------------------------------------- | :--: |
-| 1	Two Sum                                                 | ToDo |
-| 3	Longest Substring Without Repeating Characters          | ToDo |
-| 4	Median of Two Sorted Arrays                             | ToDo |
-| 5	Longest Palindromic Substring                           | ToDo |
+| 1	Two Sum                                                 | Done |
+| 3	Longest Substring Without Repeating Characters          | Done |
+| 4	Median of Two Sorted Arrays                             | Done |
+| 5	Longest Palindromic Substring                           | Done |
 | 7	Reverse Integer                                         | ToDo |
-| 8	String to Integer (atoi)                                | ToDo |
+| 8	String to Integer (atoi)                                | Done |
 | 10	Regular Expression Matching                            | ToDo |
-| 11	Container With Most Water                              | ToDo |
-| 12	Integer to Roman                                       | ToDo |
-| 13	Roman to Integer                                       | ToDo |
-| 15	3Sum                                                   | ToDo |
-| 17	Letter Combinations of a Phone Number                  | ToDo |
-| 18	4Sum                                                   | ToDo |
-| 20	Valid Parentheses                                      | ToDo |
-| 22	Generate Parentheses                                   | ToDo |
-| 23	Merge k Sorted Lists                                   | ToDo |
-| 26	Remove Duplicates from Sorted Array                    | ToDo |
-| 27	Remove Element                                         | ToDo |
-| 28	Implement strStr()                                     | ToDo |
-| 29	Divide Two Integers                                    | ToDo |
-| 31	Next Permutation                                       | ToDo |
+| 11	Container With Most Water                              | Done |
+| 12	Integer to Roman                                       | Done |
+| 13	Roman to Integer                                       | Done |
+| 15	3Sum                                                   | Done |
+| 17	Letter Combinations of a Phone Number                  | Done |
+| 18	4Sum                                                   | Done |
+| 20	Valid Parentheses                                      | Done |
+| 22	Generate Parentheses                                   | Done |
+| 23	Merge k Sorted Lists                                   | Done |
+| 26	Remove Duplicates from Sorted Array                    | Done |
+| 27	Remove Element                                         | Done |
+| 28	Implement strStr()                                     | Done |
+| 29	Divide Two Integers                                    | Done |
+| 31	Next Permutation                                       | Done |
 | 32	Longest Valid Parentheses                              | ToDo |
-| 33	Search in Rotated Sorted Array                         | ToDo |
-| 34	Find First and Last Position of Element in Sorted Array | ToDo |
+| 33	Search in Rotated Sorted Array                         | Done |
+| 34	Find First and Last Position of Element in Sorted Array | Done |
 | 35	Search Insert Position                                 | ToDo |
 | 36	Valid Sudoku                                           | ToDo |
 | 37	Sudoku Solver                                          | ToDo |
-| 38	Count and Say                                          | ToDo |
-| 39	Combination Sum                                        | ToDo |
-| 40	Combination Sum II                                     | ToDo |
-| 41	First Missing Positive                                 | ToDo |
+| 38	Count and Say                                          | Done |
+| 39	Combination Sum                                        | Done |
+| 40	Combination Sum II                                     | Done |
+| 41	First Missing Positive                                 | Done |
 | 42	Trapping Rain Water                                    | ToDo |
 | 43	Multiply Strings                                       | ToDo |
 | 44	Wildcard Matching                                      | ToDo |
 | 45	Jump Game II                                           | ToDo |
-| 46	Permutations                                           | ToDo |
-| 47	Permutations II                                        | ToDo |
+| 46	Permutations                                           | Done |
+| 47	Permutations II                                        | Done |
 | 48	Rotate Image                                           | ToDo |
-| 49	Group Anagrams                                         | ToDo |
+| 49	Group Anagrams                                         | Done |
 | 50	Pow(x, n)                                              | ToDo |
 | 51	N-Queens                                               | ToDo |
 | 52	N-Queens II                                            | ToDo |
