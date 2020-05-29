@@ -53,3 +53,4 @@ dkms.conf
 
 #storage
 *.DS_Store
+.DS_Store

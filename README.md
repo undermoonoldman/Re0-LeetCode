@@ -486,7 +486,7 @@
    | :----------------------------------------------------------- | :--- | :------------------: |
    | ~~Basic~~                                                    |      |                      |
    | 144	Binary Tree Preorder Traversal                        | ToDo |                      |
-   | 94	Binary Tree Inorder Traversal                          | ToDo |                      |
+   | 94	Binary Tree Inorder Traversal                          | Done |                      |
    | 145	Binary Tree Postorder Traversal                       | ToDo |                      |
    | 102	Binary Tree Level Order Traversal                     | ToDo |                      |
    | ~~Preorder~~                                                 |      |                      |
