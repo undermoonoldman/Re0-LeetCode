@@ -528,7 +528,7 @@
    | 114	Flatten Binary Tree to Linked List                    | ToDo |    rarely tested     |
    | 255	Verify Preorder Sequence in Binary Search Tree        | ToDo |    rarely tested     |
    | 333	Largest BST Subtree                                   | ToDo |    rarely tested     |
-   | 222	Count Complete Tree Nodes                             | ToDo |    rarely tested     |
+   | 222	Count Complete Tree Nodes                             | Done |    rarely tested     |
    | 105	Construct Binary Tree from Preorder and Inorder Traversal | ToDo |    rarely tested     |
    | 106	Construct Binary Tree from Inorder and Postorder Traversal | ToDo |    rarely tested     |
    | 116	Populating Next Right Pointers in Each Node           | ToDo |      important       |
