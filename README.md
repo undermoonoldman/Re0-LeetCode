@@ -531,8 +531,8 @@
    | 222	Count Complete Tree Nodes                             | Done |    rarely tested     |
    | 105	Construct Binary Tree from Preorder and Inorder Traversal | ToDo |    rarely tested     |
    | 106	Construct Binary Tree from Inorder and Postorder Traversal | ToDo |    rarely tested     |
-   | 116	Populating Next Right Pointers in Each Node           | ToDo |      important       |
-   | 117	Populating Next Right Pointers in Each Node II        | ToDo |      important       |
+   | 116	Populating Next Right Pointers in Each Node           | Done |      important       |
+   | 117	Populating Next Right Pointers in Each Node II        |      |      important       |
    | 314	Binary Tree Vertical Order Traversal                  | ToDo |      important       |
    | 96	Unique Binary Search Trees                             | ToDo |      important       |
    | 95	Unique Binary Search Trees II                          | ToDo |    rarely tested     |
