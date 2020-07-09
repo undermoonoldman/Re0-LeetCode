@@ -74,9 +74,9 @@
 | 72	Edit Distance                                          | ToDo |
 | 74	Search a 2D Matrix                                     | ToDo |
 | 75	Sort Colors                                            | ToDo |
-| 76	Minimum Window Substring                               | ToDo |
-| 77	Combinations                                           | ToDo |
-| 78	Subsets                                                | ToDo |
+| 76	Minimum Window Substring                               | Done |
+| 77	Combinations                                           | Done |
+| 78	Subsets                                                | Done |
 | 79	Word Search                                            | ToDo |
 | 80	Remove Duplicates from Sorted Array II                 | ToDo |
 | 81	Search in Rotated Sorted Array II                      | ToDo |
@@ -84,25 +84,25 @@
 | 84	Largest Rectangle in Histogram                         | ToDo |
 | 85	Maximal Rectangle                                      | ToDo |
 | 88	Merge Sorted Array                                     | ToDo |
-| 90	Subsets II                                             | ToDo |
+| 90	Subsets II                                             | Done |
 | 91	Decode Ways                                            | ToDo |
-| 96	Unique Binary Search Trees                             | ToDo |
-| 98	Validate Binary Search Tree                            | ToDo |
-| 101	Symmetric Tree                                        | ToDo |
-| 104	Maximum Depth of Binary Tree                          | ToDo |
-| 108	Convert Sorted Array to Binary Search Tree            | ToDo |
-| 110	Balanced Binary Tree                                  | ToDo |
-| 111	Minimum Depth of Binary Tree                          | ToDo |
-| 112	Path Sum                                              | ToDo |
-| 113	Path Sum II                                           | ToDo |
+| 96	Unique Binary Search Trees                             | Done |
+| 98	Validate Binary Search Tree                            | Done |
+| 101	Symmetric Tree                                        | Done |
+| 104	Maximum Depth of Binary Tree                          | Done |
+| 108	Convert Sorted Array to Binary Search Tree            | Done |
+| 110	Balanced Binary Tree                                  | Done |
+| 111	Minimum Depth of Binary Tree                          | Done |
+| 112	Path Sum                                              | Done |
+| 113	Path Sum II                                           | Done |
 | 115	Distinct Subsequences                                 | ToDo |
-| 116	Populating Next Right Pointers in Each Node           | ToDo |
-| 117	Populating Next Right Pointers in Each Node II        | ToDo |
+| 116	Populating Next Right Pointers in Each Node           | Done |
+| 117	Populating Next Right Pointers in Each Node II        | Done |
 | 121	Best Time to Buy and Sell Stock                       | ToDo |
 | 122	Best Time to Buy and Sell Stock II                    | ToDo |
 | 123	Best Time to Buy and Sell Stock III                   | ToDo |
 | 124	Binary Tree Maximum Path Sum                          | ToDo |
-| 125	Valid Palindrome                                      | ToDo |
+| 125	Valid Palindrome                                      | Done |
 | 126	Word Ladder II                                        | ToDo |
 | 127	Word Ladder                                           | ToDo |
 | 128	Longest Consecutive Sequence                          | ToDo |
@@ -119,7 +119,7 @@
 | 152	Maximum Product Subarray                              | ToDo |
 | 153	Find Minimum in Rotated Sorted Array                  | ToDo |
 | 154	Find Minimum in Rotated Sorted Array II               | ToDo |
-| 155	Min Stack                                             | ToDo |
+| 155	Min Stack                                             | Done |
 | 157	Read N Characters Given Read4                         | ToDo |
 | 158	Read N Characters Given Read4 II - Call multiple times | ToDo |
 | 161	One Edit Distance                                     | ToDo |
@@ -136,39 +136,39 @@
 | 198	House Robber                                          | ToDo |
 | 200	Number of Islands                                     | ToDo |
 | 201	Bitwise AND of Numbers Range                          | ToDo |
-| 202	Happy Number                                          | ToDo |
+| 202	Happy Number                                          | Done |
 | 204	Count Primes                                          | ToDo |
-| 205	Isomorphic Strings                                    | ToDo |
+| 205	Isomorphic Strings                                    | Done |
 | 207	Course Schedule                                       | ToDo |
-| 208	Implement Trie (Prefix Tree)                          | ToDo |
-| 209	Minimum Size Subarray Sum                             | ToDo |
+| 208	Implement Trie (Prefix Tree)                          | Done |
+| 209	Minimum Size Subarray Sum                             | Done |
 | 210	Course Schedule II                                    | ToDo |
-| 211	Add and Search Word - Data structure design           | ToDo |
+| 211	Add and Search Word - Data structure design           | Done |
 | 212	Word Search II                                        | ToDo |
 | 213	House Robber II                                       | ToDo |
 | 214	Shortest Palindrome                                   | ToDo |
-| 215	Kth Largest Element in an Array                       | ToDo |
-| 216	Combination Sum III                                   | ToDo |
-| 217	Contains Duplicate                                    | ToDo |
+| 215	Kth Largest Element in an Array                       | Done |
+| 216	Combination Sum III                                   | Done |
+| 217	Contains Duplicate                                    | Done |
 | 218	The Skyline Problem                                   | ToDo |
-| 219	Contains Duplicate II                                 | ToDo |
-| 220	Contains Duplicate III                                | ToDo |
+| 219	Contains Duplicate II                                 | Done |
+| 220	Contains Duplicate III                                | Done |
 | 221	Maximal Square                                        | ToDo |
 | 224	Basic Calculator                                      | ToDo |
-| 225	Implement Stack using Queues                          | ToDo |
-| 226	Invert Binary Tree                                    | ToDo |
+| 225	Implement Stack using Queues                          | Done |
+| 226	Invert Binary Tree                                    | Done |
 | 227	Basic Calculator II                                   | ToDo |
 | 228	Summary Ranges                                        | ToDo |
 | 230	Kth Smallest Element in a BST                         | ToDo |
 | 231	Power of Two                                          | ToDo |
-| 232	Implement Queue using Stacks                          | ToDo |
-| 235	Lowest Common Ancestor of a Binary Search Tree        | ToDo |
-| 236	Lowest Common Ancestor of a Binary Tree               | ToDo |
+| 232	Implement Queue using Stacks                          | Done |
+| 235	Lowest Common Ancestor of a Binary Search Tree        | Done |
+| 236	Lowest Common Ancestor of a Binary Tree               | Done |
 | 238	Product of Array Except Self                          | ToDo |
 | 239	Sliding Window Maximum                                | ToDo |
 | 240	Search a 2D Matrix II                                 | ToDo |
 | 241	Different Ways to Add Parentheses                     | ToDo |
-| 242	Valid Anagram                                         | ToDo |
+| 242	Valid Anagram                                         | Done |
 | 244	Shortest Word Distance II                             | ToDo |
 | 245	Shortest Word Distance III                            | ToDo |
 | 249	Group Shifted Strings                                 | ToDo |
@@ -177,7 +177,7 @@
 | 253	Meeting Rooms II                                      | ToDo |
 | 254	Factor Combinations                                   | ToDo |
 | 256	Paint House                                           | ToDo |
-| 257	Binary Tree Paths                                     | ToDo |
+| 257	Binary Tree Paths                                     | Done |
 | 261	Graph Valid Tree                                      | ToDo |
 | 263	Ugly Number                                           | ToDo |
 | 264	Ugly Number II                                        | ToDo |
@@ -195,27 +195,27 @@
 | 279	Perfect Squares                                       | ToDo |
 | 280	Wiggle Sort                                           | ToDo |
 | 282	Expression Add Operators                              | ToDo |
-| 283	Move Zeroes                                           | ToDo |
+| 283	Move Zeroes                                           | Done |
 | 284	Peeking Iterator                                      | ToDo |
 | 285	Inorder Successor in BST                              | ToDo |
 | 286	Walls and Gates                                       | ToDo |
 | 287	Find the Duplicate Number                             | ToDo |
 | 288	Unique Word Abbreviation                              | ToDo |
 | 289	Game of Life                                          | ToDo |
-| 290	Word Pattern                                          | ToDo |
+| 290	Word Pattern                                          | Done |
 | 291	Word Pattern II                                       | ToDo |
 | 293	Flip Game                                             | ToDo |
 | 294	Flip Game II                                          | ToDo |
 | 295	Find Median from Data Stream                          | ToDo |
 | 296	Best Meeting Point                                    | ToDo |
-| 297	Serialize and Deserialize Binary Tree                 | ToDo |
+| 297	Serialize and Deserialize Binary Tree                 | Done |
 | 298	Binary Tree Longest Consecutive Sequence              | ToDo |
 | 299	Bulls and Cows                                        | ToDo |
 | 300	Longest Increasing Subsequence                        | ToDo |
 | 301	Remove Invalid Parentheses                            | ToDo |
 | 302	Smallest Rectangle Enclosing Black Pixels             | ToDo |
 | 305	Number of Islands II                                  | ToDo |
-| 307	Range Sum Query - Mutable                             | ToDo |
+| 307	Range Sum Query - Mutable                             | Done |
 | 308	Range Sum Query 2D - Mutable                          | ToDo |
 | 309	Best Time to Buy and Sell Stock with Cooldown         | ToDo |
 | 311	Sparse Matrix Multiplication                          | ToDo |
@@ -239,7 +239,7 @@
 | 346	Moving Average from Data Stream                       | ToDo |
 | 347	Top K Frequent Elements                               | ToDo |
 | 348	Design Tic-Tac-Toe                                    | ToDo |
-| 350	Intersection of Two Arrays II                         | ToDo |
+| 350	Intersection of Two Arrays II                         | Done |
 | 351	Android Unlock Patterns                               | ToDo |
 | 352	Data Stream as Disjoint Intervals                     | ToDo |
 | 353	Design Snake Game                                     | ToDo |
@@ -488,53 +488,53 @@
    | 144	Binary Tree Preorder Traversal                        | Done |                      |
    | 94	Binary Tree Inorder Traversal                          | Done |                      |
    | 145	Binary Tree Postorder Traversal                       | Done |                      |
-   | 102	Binary Tree Level Order Traversal                     | ToDo |                      |
+   | 102	Binary Tree Level Order Traversal                     | Done |                      |
    | ~~Preorder~~                                                 |      |                      |
-   | 100	Same Tree                                             | ToDo |                      |
-   | 101	Symmetric Tree                                        | ToDo |                      |
-   | 226	Invert Binary Tree                                    | ToDo |    preorder + BFS    |
-   | 257	Binary Tree Paths                                     | ToDo |                      |
-   | 112	Path Sum                                              | ToDo |                      |
-   | 113	Path Sum II                                           | ToDo |                      |
-   | 129	Sum Root to Leaf Numbers                              | ToDo |                      |
-   | 298	Binary Tree Longest Consecutive Sequence              | ToDo |                      |
-   | 111	Minimum Depth of Binary Tree                          | ToDo |                      |
+   | 100	Same Tree                                             | Done |                      |
+   | 101	Symmetric Tree                                        | Done |                      |
+   | 226	Invert Binary Tree                                    | Done |    preorder + BFS    |
+   | 257	Binary Tree Paths                                     | Done |                      |
+   | 112	Path Sum                                              | Done |                      |
+   | 113	Path Sum II                                           | Done |                      |
+   | 129	Sum Root to Leaf Numbers                              | Done |                      |
+   | 298	Binary Tree Longest Consecutive Sequence（paid）      | ToDo |                      |
+   | 111	Minimum Depth of Binary Tree                          | Done |                      |
    | ~~Preorder~~                                                 |      |                      |
-   | 104	Maximum Depth of Binary Tree                          | ToDo |                      |
-   | 110	Balanced Binary Tree                                  | ToDo |                      |
+   | 104	Maximum Depth of Binary Tree                          | Done |                      |
+   | 110	Balanced Binary Tree                                  | Done |                      |
    | 124	Binary Tree Maximum Path Sum                          | ToDo |                      |
    | 250	Count Univalue Subtrees                               | ToDo |                      |
    | 366	Find Leaves of Binary Tree                            | ToDo |                      |
    | 337	House Robber III                                      | ToDo | postorder + preorder |
    | ~~BFS~~                                                      |      |                      |
-   | 107	Binary Tree Level Order Traversal II                  | ToDo |                      |
-   | 103	Binary Tree Zigzag Level Order Traversal              | ToDo |                      |
-   | 199	Binary Tree Right Side View                           | ToDo |    BFS + preorder    |
+   | 107	Binary Tree Level Order Traversal II                  | Done |                      |
+   | 103	Binary Tree Zigzag Level Order Traversal              | Done |                      |
+   | 199	Binary Tree Right Side View                           | Done |    BFS + preorder    |
    | ~~BST~~                                                      |      |                      |
-   | 98	Validate Binary Search Tree                            | ToDo |       preorder       |
-   | 235	Lowest Common Ancestor of a Binary Search Tree        | ToDo |       preorder       |
-   | 236	Lowest Common Ancestor of a Binary Tree               | ToDo |      postorder       |
-   | 108	Convert Sorted Array to Binary Search Tree            | ToDo |    binary search     |
+   | 98	Validate Binary Search Tree                            | Done |       preorder       |
+   | 235	Lowest Common Ancestor of a Binary Search Tree        | Done |       preorder       |
+   | 236	Lowest Common Ancestor of a Binary Tree               | Done |      postorder       |
+   | 108	Convert Sorted Array to Binary Search Tree            | Done |    binary search     |
    | 109	Convert Sorted List to Binary Search Tree             | ToDo |    binary search     |
    | 173	Binary Search Tree Iterator                           | ToDo |       inorder        |
    | 230	Kth Smallest Element in a BST                         | ToDo |       inorder        |
-   | 297	Serialize and Deserialize Binary Tree                 | ToDo |         BFS          |
+   | 297	Serialize and Deserialize Binary Tree                 | Done |         BFS          |
    | 285	Inorder Successor in BST                              | ToDo |       inorder        |
    | 270	Closest Binary Search Tree Value                      | ToDo |       preorder       |
    | 272	Closest Binary Search Tree Value II                   | ToDo |       inorder        |
    | 99	Recover Binary Search Tree                             | ToDo |       inorder        |
    | ~~Importance~~                                               |      |                      |
    | 156	Binary Tree Upside Down                               | ToDo |    rarely tested     |
-   | 114	Flatten Binary Tree to Linked List                    | ToDo |    rarely tested     |
+   | 114	Flatten Binary Tree to Linked List                    | Done |    rarely tested     |
    | 255	Verify Preorder Sequence in Binary Search Tree        | ToDo |    rarely tested     |
    | 333	Largest BST Subtree                                   | ToDo |    rarely tested     |
    | 222	Count Complete Tree Nodes                             | Done |    rarely tested     |
-   | 105	Construct Binary Tree from Preorder and Inorder Traversal | ToDo |    rarely tested     |
+   | 105	Construct Binary Tree from Preorder and Inorder Traversal | Done |    rarely tested     |
    | 106	Construct Binary Tree from Inorder and Postorder Traversal | ToDo |    rarely tested     |
    | 116	Populating Next Right Pointers in Each Node           | Done |      important       |
-   | 117	Populating Next Right Pointers in Each Node II        |      |      important       |
+   | 117	Populating Next Right Pointers in Each Node II        | Done |      important       |
    | 314	Binary Tree Vertical Order Traversal                  | ToDo |      important       |
-   | 96	Unique Binary Search Trees                             | ToDo |      important       |
+   | 96	Unique Binary Search Trees                             | Done |      important       |
    | 95	Unique Binary Search Trees II                          | ToDo |    rarely tested     |
    | 331	Verify Preorder Serialization of a Binary Tree        | ToDo |    rarely tested     |
 
