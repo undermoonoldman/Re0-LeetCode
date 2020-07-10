@@ -484,12 +484,12 @@
 
    | 题号                                                         | 状态 |         说明         |
    | :----------------------------------------------------------- | :--- | :------------------: |
-   | ~~Basic~~                                                    |      |                      |
+   | Basic                                                        |      |                      |
    | 144	Binary Tree Preorder Traversal                        | Done |                      |
    | 94	Binary Tree Inorder Traversal                          | Done |                      |
    | 145	Binary Tree Postorder Traversal                       | Done |                      |
    | 102	Binary Tree Level Order Traversal                     | Done |                      |
-   | ~~Preorder~~                                                 |      |                      |
+   | Preorder                                                     |      |                      |
    | 100	Same Tree                                             | Done |                      |
    | 101	Symmetric Tree                                        | Done |                      |
    | 226	Invert Binary Tree                                    | Done |    preorder + BFS    |
@@ -499,7 +499,7 @@
    | 129	Sum Root to Leaf Numbers                              | Done |                      |
    | 298	Binary Tree Longest Consecutive Sequence（paid）      | ToDo |                      |
    | 111	Minimum Depth of Binary Tree                          | Done |                      |
-   | ~~Preorder~~                                                 |      |                      |
+   | Postorder                                                    |      |                      |
    | 104	Maximum Depth of Binary Tree                          | Done |                      |
    | 110	Balanced Binary Tree                                  | Done |                      |
    | 124	Binary Tree Maximum Path Sum                          | ToDo |                      |
@@ -510,7 +510,7 @@
    | 107	Binary Tree Level Order Traversal II                  | Done |                      |
    | 103	Binary Tree Zigzag Level Order Traversal              | Done |                      |
    | 199	Binary Tree Right Side View                           | Done |    BFS + preorder    |
-   | ~~BST~~                                                      |      |                      |
+   | BST                                                          |      |                      |
    | 98	Validate Binary Search Tree                            | Done |       preorder       |
    | 235	Lowest Common Ancestor of a Binary Search Tree        | Done |       preorder       |
    | 236	Lowest Common Ancestor of a Binary Tree               | Done |      postorder       |
@@ -523,7 +523,7 @@
    | 270	Closest Binary Search Tree Value                      | ToDo |       preorder       |
    | 272	Closest Binary Search Tree Value II                   | ToDo |       inorder        |
    | 99	Recover Binary Search Tree                             | ToDo |       inorder        |
-   | ~~Importance~~                                               |      |                      |
+   | Importance                                                   |      |                      |
    | 156	Binary Tree Upside Down                               | ToDo |    rarely tested     |
    | 114	Flatten Binary Tree to Linked List                    | Done |    rarely tested     |
    | 255	Verify Preorder Sequence in Binary Search Tree        | ToDo |    rarely tested     |
