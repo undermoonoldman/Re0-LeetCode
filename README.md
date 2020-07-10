@@ -504,9 +504,9 @@
    | 104	Maximum Depth of Binary Tree                          | Done |                      |
    | 110	Balanced Binary Tree                                  | Done |                      |
    | 124	Binary Tree Maximum Path Sum                          | ToDo |                      |
-   | 250	Count Univalue Subtrees                               | ToDo |                      |
-   | 366	Find Leaves of Binary Tree                            | ToDo |                      |
-   | 337	House Robber III                                      | ToDo | postorder + preorder |
+   | 250	Count Univalue Subtrees（paid）                       | ToDo |                      |
+   | 366	Find Leaves of Binary Tree（paid）                    | ToDo |                      |
+   | 337	House Robber III（paid）                              | ToDo | postorder + preorder |
    | BFS                                                          |      |                      |
    | 107	Binary Tree Level Order Traversal II                  | Done |                      |
    | 103	Binary Tree Zigzag Level Order Traversal              | Done |                      |
@@ -518,23 +518,23 @@
    | 108	Convert Sorted Array to Binary Search Tree            | Done |    binary search     |
    | 109	Convert Sorted List to Binary Search Tree             | ToDo |    binary search     |
    | 173	Binary Search Tree Iterator                           | ToDo |       inorder        |
-   | 230	Kth Smallest Element in a BST                         | ToDo |       inorder        |
+   | 230	Kth Smallest Element in a BST                         | Done |       inorder        |
    | 297	Serialize and Deserialize Binary Tree                 | Done |         BFS          |
-   | 285	Inorder Successor in BST                              | ToDo |       inorder        |
-   | 270	Closest Binary Search Tree Value                      | ToDo |       preorder       |
-   | 272	Closest Binary Search Tree Value II                   | ToDo |       inorder        |
+   | 285	Inorder Successor in BST（paid）                      | ToDo |       inorder        |
+   | 270	Closest Binary Search Tree Value（paid）              | ToDo |       preorder       |
+   | 272	Closest Binary Search Tree Value II（paid）           | ToDo |       inorder        |
    | 99	Recover Binary Search Tree                             | ToDo |       inorder        |
    | Important                                                    |      |                      |
-   | 156	Binary Tree Upside Down                               | ToDo |    rarely tested     |
+   | 156	Binary Tree Upside Down（paid）                       | ToDo |    rarely tested     |
    | 114	Flatten Binary Tree to Linked List                    | Done |    rarely tested     |
-   | 255	Verify Preorder Sequence in Binary Search Tree        | ToDo |    rarely tested     |
-   | 333	Largest BST Subtree                                   | ToDo |    rarely tested     |
+   | 255	Verify Preorder Sequence in Binary Search Tree（paid） | ToDo |    rarely tested     |
+   | 333	Largest BST Subtree（paid）                           | ToDo |    rarely tested     |
    | 222	Count Complete Tree Nodes                             | Done |    rarely tested     |
    | 105	Construct Binary Tree from Preorder and Inorder Traversal | Done |    rarely tested     |
    | 106	Construct Binary Tree from Inorder and Postorder Traversal | ToDo |    rarely tested     |
    | 116	Populating Next Right Pointers in Each Node           | Done |      important       |
    | 117	Populating Next Right Pointers in Each Node II        | Done |      important       |
-   | 314	Binary Tree Vertical Order Traversal                  | ToDo |      important       |
+   | 314	Binary Tree Vertical Order Traversal（paid）          | ToDo |      important       |
    | 96	Unique Binary Search Trees                             | Done |      important       |
    | 95	Unique Binary Search Trees II                          | ToDo |    rarely tested     |
    | 331	Verify Preorder Serialization of a Binary Tree        | ToDo |    rarely tested     |
