@@ -516,7 +516,7 @@
    | 235	Lowest Common Ancestor of a Binary Search Tree        | Done |       preorder       |
    | 236	Lowest Common Ancestor of a Binary Tree               | Done |      postorder       |
    | 108	Convert Sorted Array to Binary Search Tree            | Done |    binary search     |
-   | 109	Convert Sorted List to Binary Search Tree             | ToDo |    binary search     |
+   | 109	Convert Sorted List to Binary Search Tree             | Done |    binary search     |
    | 173	Binary Search Tree Iterator                           | ToDo |       inorder        |
    | 230	Kth Smallest Element in a BST                         | Done |       inorder        |
    | 297	Serialize and Deserialize Binary Tree                 | Done |         BFS          |
